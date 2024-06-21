@@ -1,6 +1,6 @@
 # OBQA_Llamion
 
-[llamion 모델](https://huggingface.co/vaiv/GeM2-Llamion-14B-Base)
+[llamion 모델](https://huggingface.co/vaiv/GeM2-Llamion-14B-Base)   
 [PEFT 수행한 모델](https://huggingface.co/kimbong/llamion-14B-Base-TrainLoRA)
 
 ![image](https://github.com/kimbongju02/OBQA_Llamion/assets/106128768/40bd4137-e73d-426e-8116-626c89e4e72c)
